@@ -1,6 +1,10 @@
 # vue3-pinia-clean
 A bash script to help you getting started with Vite.js + Vue3.js + Pinia. 
 
+## !!! DANGER !!! 
+DO NOT RUN THIS ON AN EXISTING PROJECT. THIS IS MEANT TO BE USED ON A NEW PROJECT. THE SCRIPT WILL OVERWRITE main.js, App.vue.
+I'm not responsible if you're overwriting your existing project.
+
 ## To make it easier I suggest you to put the script into your bashrc
 
 ### Add the script to the bashrc file:
